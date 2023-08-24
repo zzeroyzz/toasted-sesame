@@ -1,5 +1,5 @@
 import React from 'react';
-import { Image, Text } from '@chakra-ui/react';
+import { Image } from '@chakra-ui/react';
 import ToastedSesameLogo from '../../assets/ToastedSesameLogo.png';
 import FlowerBackgroundImg from '../../assets/FlowerBackgroundImg.png';
 import styled from 'styled-components';

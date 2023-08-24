@@ -1,13 +1,8 @@
 @import url('https://fonts.googleapis.com/css2?family=Fuzzy+Bubbles&display=swap');
-
 body {
   margin: 0;
-  font-family: 'Fuzzy Bubbles', cursive;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
 }
 
-code {
-  font-family: 'Fuzzy Bubbles', cursive;
-}
